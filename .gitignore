@@ -1,6 +1,6 @@
 factwise_env/
 *.pickle
-*.txt
+b*.txt
 *.pyc
 
 settings.json
