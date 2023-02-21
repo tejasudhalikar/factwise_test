@@ -1,0 +1,7 @@
+factwise_env/
+*.pickle
+*.txt
+*.pyc
+
+settings.json
+db.sqlite3
